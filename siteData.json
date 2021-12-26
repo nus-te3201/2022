@@ -73,7 +73,7 @@
         "junit": "JUnit",
         "miscellaneous-topics": "Miscellaneous topics",
         "exercise-run-helloworld": " [Exercise] Run HelloWorld",
-        "key-exercise-byeworld": " [Key Exercise] ByeWorld",
+        "exercise-byeworld": "[Exercise] ByeWorld",
         "key-exercise-compare-names": " [Key Exercise] Compare names",
         "key-exercise-grade-helper": " [Key Exercise] Grade Helper",
         "key-exercise-getgradecap-method": " [Key Exercise] getGradeCap Method",
@@ -765,8 +765,7 @@
         "printing-textbook-content": "Printing Textbook Content",
         "making-this-website-better": "Making this Website Better",
         "instructors": "Instructors",
-        "lectures": "Lectures",
-        "tutorials": "Tutorials",
+        "lectures-tutorials": "Lectures + Tutorials",
         "textbook": "Textbook",
         "programming-language": "Programming Language",
         "programming-exercises": "Programming Exercises",
@@ -781,10 +780,11 @@
         "getting-help": "Getting Help",
         "assessment": "Assessment",
         "exam": "Exam",
-        "procedure-rules": "procedure/rules",
-        "30-15-minutes-before-the-exam": "30-15 minutes before the exam",
+        "sop-deviations-refinements": "SOP deviations/refinements",
         "format": "Format",
-        "resources": "Resources"
+        "final-exam-part-1": "Final exam - part 1",
+        "final-exam-part-2-2": "Final exam - part 2",
+        "exam-briefing-mock-exam-practice-exam-paper-2": "Exam briefing, mock exam, practice exam paper"
       },
       "headingKeywords": {}
     }
