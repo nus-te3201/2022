@@ -1,0 +1,28 @@
+2022-01-07T15:25:47.626Z - info: Website generation (lazy) started at 11:25:41 pm
+2022-01-07T15:25:54.715Z - info: Building assets...
+2022-01-07T15:25:59.784Z - info: Assets built
+2022-01-07T15:25:59.785Z - info: Generating landing page...
+2022-01-07T15:26:00.386Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-07T15:26:01.098Z - info: Site data built
+2022-01-07T15:26:01.098Z - info: Website generation (lazy) complete! Total build time: 19.672s
+2022-01-07T15:26:01.798Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-07T15:26:01.798Z - info: Press CTRL+C to stop ...
+2022-01-07T15:29:57.430Z - info: Website generation (lazy) started at 11:29:55 pm
+2022-01-07T15:30:02.726Z - info: Building assets...
+2022-01-07T15:30:07.667Z - info: Assets built
+2022-01-07T15:30:07.667Z - info: Generating landing page...
+2022-01-07T15:30:09.110Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-07T15:30:09.849Z - info: Site data built
+2022-01-07T15:30:09.849Z - info: Website generation (lazy) complete! Total build time: 14.27s
+2022-01-07T15:30:10.524Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-07T15:30:10.524Z - info: Press CTRL+C to stop ...
+2022-01-07T15:31:27.012Z - info: [11:31:27 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2022-01-07T15:31:27.014Z - info: Synchronizing opened pages list before reload
+2022-01-07T15:31:27.015Z - info: Current opened pages, from most-to-least recent:
+2022-01-07T15:31:27.016Z - info: 1. index
+2022-01-07T15:31:28.146Z - info: Rebuilding 1 pages
+2022-01-07T15:31:29.150Z - info: Site data built
+2022-01-07T15:31:29.150Z - info: Pages rebuilt
+2022-01-07T15:31:29.151Z - info: Website regeneration complete! Total build time: 1.006s
+2022-01-07T15:32:22.818Z - info: Website generation started at 11:32:21 pm
+2022-01-07T15:32:27.357Z - info: Building assets...
