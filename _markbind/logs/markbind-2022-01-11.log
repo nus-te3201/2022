@@ -1,0 +1,19 @@
+2022-01-11T02:51:39.570Z - info: Website generation (lazy) started at 10:51:30 am
+2022-01-11T02:51:46.391Z - info: Building assets...
+2022-01-11T02:51:51.451Z - info: Assets built
+2022-01-11T02:51:51.451Z - info: Generating landing page...
+2022-01-11T02:51:53.282Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-01-11T02:51:54.364Z - info: Site data built
+2022-01-11T02:51:54.364Z - info: Website generation (lazy) complete! Total build time: 24.23s
+2022-01-11T02:51:55.297Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-01-11T02:51:55.297Z - info: Press CTRL+C to stop ...
+2022-01-11T02:53:20.160Z - info: [10:53:20 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tee3201.mbdf
+2022-01-11T02:53:20.160Z - info: Synchronizing opened pages list before reload
+2022-01-11T02:53:20.161Z - info: Current opened pages, from most-to-least recent:
+2022-01-11T02:53:20.161Z - info: 1. index
+2022-01-11T02:53:21.172Z - info: Rebuilding 1 pages
+2022-01-11T02:53:22.497Z - info: Site data built
+2022-01-11T02:53:22.497Z - info: Pages rebuilt
+2022-01-11T02:53:22.497Z - info: Website regeneration complete! Total build time: 1.326s
+2022-01-11T02:54:37.109Z - info: Website generation started at 10:54:34 am
+2022-01-11T02:54:42.729Z - info: Building assets...
