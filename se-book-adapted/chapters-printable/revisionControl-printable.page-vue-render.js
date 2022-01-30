@@ -14,6 +14,6 @@ with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('sp
 with(this){return _c('p',[_v("Revision control software are also known as "),_c('em',[_v("Version Control Software (VCS)")]),_v(", and by a few other names.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Tue, 25 Jan 2022, 22:15:21 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.1.1")]),_v(", generated on Sun, 30 Jan 2022, 23:02:08 GMT+8]")])])])}
 }];
   
