@@ -57,20 +57,21 @@
   "intrasiteLinkValidation": {
     "enabled": false
   },
-  "enableSearch": true,
+  "enableSearch": false,
   "plugins": ["algolia","filterTags"],
   "pluginsContext": {
    "filterTags": {
       "tags": ["m--tee3201"]
    },
-   "algolia": {
-      "apiKey": "29bf21caddc74372e5c75f9a557715ec", 
-      "indexName": "te3201_2019", 
+    "algolia": {
+      "apiKey": "a3fef7e2d9dea07c0fa2d8ed521057aa",
+      "appId": "3DU4XTBX4T",
+      "indexName": "nus-tic-cs",
       "algoliaOptions": {
         "hitsPerPage": 10,
-        "facetFilters": [["tags:admin", "tags:programming", "tags:se-book-adapted", "tags:schedule"]]
-      }, 
-      "debug": false 
+        "facetFilters": [["site:nus-tee3201.github.io"], ["tags:admin", "tags:se-book-adapted", "tags:schedule"]]
+      },
+      "debug": false
     }
     },
   "deploy": {
