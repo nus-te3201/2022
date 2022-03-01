@@ -1,0 +1,26 @@
+2022-03-01T10:08:11.790Z - info: Website generation (lazy) started at 6:08:06 pm
+2022-03-01T10:08:17.532Z - info: Building assets...
+2022-03-01T10:08:22.136Z - info: Assets built
+2022-03-01T10:08:22.136Z - info: Generating landing page...
+2022-03-01T10:08:22.752Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-01T10:08:23.844Z - info: Site data built
+2022-03-01T10:08:23.844Z - info: Website generation (lazy) complete! Total build time: 16.927s
+2022-03-01T10:08:24.720Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-01T10:08:24.720Z - info: Press CTRL+C to stop ...
+2022-03-01T10:08:26.638Z - info: [6:08:26 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\common\references.md
+2022-03-01T10:08:26.638Z - info: Synchronizing opened pages list before reload
+2022-03-01T10:08:26.638Z - info: No pages are currently opened
+2022-03-01T10:08:27.977Z - info: Assets built
+2022-03-01T10:09:03.726Z - info: [6:09:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\common\references.md
+2022-03-01T10:09:03.728Z - info: Synchronizing opened pages list before reload
+2022-03-01T10:09:03.729Z - info: Current opened pages, from most-to-least recent:
+2022-03-01T10:09:03.729Z - info: 1. index
+2022-03-01T10:09:04.751Z - info: Assets built
+2022-03-01T10:09:06.037Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week7\index as some of its dependencies were changed since the last visit
+2022-03-01T10:09:06.871Z - info: Site data built
+2022-03-01T10:09:06.871Z - info: Lazy website regeneration complete! Total build time: 0.835s
+2022-03-01T10:09:09.735Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week7\topics as some of its dependencies were changed since the last visit
+2022-03-01T10:09:11.698Z - info: Site data built
+2022-03-01T10:09:11.699Z - info: Lazy website regeneration complete! Total build time: 1.964s
+2022-03-01T10:10:04.604Z - info: Website generation started at 6:10:02 pm
+2022-03-01T10:10:10.029Z - info: Building assets...
