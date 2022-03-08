@@ -39,3 +39,16 @@
 2022-03-01T10:13:31.292Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
 2022-03-01T13:03:11.147Z - info: Website generation started at 9:03:06 pm
 2022-03-01T13:03:16.950Z - info: Building assets...
+2022-03-01T13:03:21.767Z - info: Assets built
+2022-03-01T13:03:21.768Z - info: Generating pages...
+2022-03-01T13:03:29.410Z - debug:  
+2022-03-01T13:03:29.411Z - debug:  
+2022-03-01T13:03:36.289Z - debug:  
+2022-03-01T13:03:36.356Z - debug:  
+2022-03-01T13:03:53.282Z - debug:  
+2022-03-01T13:04:08.237Z - debug:  
+2022-03-01T13:04:47.433Z - info: Pages built
+2022-03-01T13:04:48.417Z - info: Site data built
+2022-03-01T13:04:48.417Z - info: Website generation complete! Total build time: 101.921s
+2022-03-01T13:04:48.417Z - info: Build success!
+2022-03-01T13:06:52.687Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
