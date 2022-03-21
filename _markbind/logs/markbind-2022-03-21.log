@@ -613,3 +613,70 @@ Last 5 files processed:
 2022-03-21T08:37:24.527Z - info: Website regeneration complete! Total build time: 0.353s
 2022-03-21T08:38:17.479Z - info: Website generation started at 4:38:15 pm
 2022-03-21T08:38:23.719Z - info: Building assets...
+2022-03-21T08:38:29.193Z - info: Assets built
+2022-03-21T08:38:29.194Z - info: Generating pages...
+2022-03-21T08:38:39.546Z - debug:  
+2022-03-21T08:38:39.547Z - debug:  
+2022-03-21T08:38:44.738Z - debug:  
+2022-03-21T08:38:44.738Z - debug:  
+2022-03-21T08:39:02.454Z - debug:  
+2022-03-21T08:39:18.878Z - debug:  
+2022-03-21T08:39:58.693Z - info: Pages built
+2022-03-21T08:40:00.053Z - info: Site data built
+2022-03-21T08:40:00.054Z - info: Website generation complete! Total build time: 104.808s
+2022-03-21T08:40:00.054Z - info: Build success!
+2022-03-21T08:42:04.702Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
+2022-03-21T14:26:04.914Z - info: Website generation (lazy) started at 10:25:59 pm
+2022-03-21T14:26:10.653Z - info: Building assets...
+2022-03-21T14:26:15.323Z - info: Assets built
+2022-03-21T14:26:15.324Z - info: Generating landing page...
+2022-03-21T14:26:16.080Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-03-21T14:26:17.080Z - info: Site data built
+2022-03-21T14:26:17.080Z - info: Website generation (lazy) complete! Total build time: 17.409s
+2022-03-21T14:26:18.063Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-03-21T14:26:18.064Z - info: Press CTRL+C to stop ...
+2022-03-21T14:27:14.482Z - info: [10:27:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2022-03-21T14:27:14.484Z - info: Synchronizing opened pages list before reload
+2022-03-21T14:27:14.484Z - info: Current opened pages, from most-to-least recent:
+2022-03-21T14:27:14.484Z - info: 1. index
+2022-03-21T14:27:15.521Z - info: Assets built
+2022-03-21T14:27:16.107Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\index as some of its dependencies were changed since the last visit
+2022-03-21T14:27:16.865Z - info: Site data built
+2022-03-21T14:27:16.866Z - info: Lazy website regeneration complete! Total build time: 0.759s
+2022-03-21T14:27:23.034Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\admin as some of its dependencies were changed since the last visit
+2022-03-21T14:27:23.372Z - info: Site data built
+2022-03-21T14:27:23.372Z - info: Lazy website regeneration complete! Total build time: 0.338s
+2022-03-21T14:27:58.515Z - info: [10:27:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2022-03-21T14:27:58.516Z - info: Synchronizing opened pages list before reload
+2022-03-21T14:27:58.516Z - info: Current opened pages, from most-to-least recent:
+2022-03-21T14:27:58.516Z - info: 1. schedule/week8/admin
+2022-03-21T14:27:59.529Z - info: Rebuilding 1 pages
+2022-03-21T14:27:59.795Z - info: Site data built
+2022-03-21T14:27:59.796Z - info: Pages rebuilt
+2022-03-21T14:27:59.796Z - info: Website regeneration complete! Total build time: 0.27s
+2022-03-21T14:29:10.914Z - info: [10:29:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2022-03-21T14:29:10.914Z - info: Synchronizing opened pages list before reload
+2022-03-21T14:29:10.914Z - info: Current opened pages, from most-to-least recent:
+2022-03-21T14:29:10.915Z - info: 1. schedule/week8/admin
+2022-03-21T14:29:11.936Z - info: Rebuilding 1 pages
+2022-03-21T14:29:12.369Z - info: Site data built
+2022-03-21T14:29:12.370Z - info: Pages rebuilt
+2022-03-21T14:29:12.370Z - info: Website regeneration complete! Total build time: 0.435s
+2022-03-21T14:30:14.724Z - info: [10:30:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2022-03-21T14:30:14.724Z - info: Synchronizing opened pages list before reload
+2022-03-21T14:30:14.725Z - info: Current opened pages, from most-to-least recent:
+2022-03-21T14:30:14.725Z - info: 1. schedule/week8/admin
+2022-03-21T14:30:15.728Z - info: Rebuilding 1 pages
+2022-03-21T14:30:16.045Z - info: Site data built
+2022-03-21T14:30:16.045Z - info: Pages rebuilt
+2022-03-21T14:30:16.045Z - info: Website regeneration complete! Total build time: 0.318s
+2022-03-21T14:30:29.211Z - info: [10:30:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2022-03-21T14:30:29.211Z - info: Synchronizing opened pages list before reload
+2022-03-21T14:30:29.212Z - info: Current opened pages, from most-to-least recent:
+2022-03-21T14:30:29.212Z - info: 1. schedule/week8/admin
+2022-03-21T14:30:30.219Z - info: Rebuilding 1 pages
+2022-03-21T14:30:30.453Z - info: Site data built
+2022-03-21T14:30:30.453Z - info: Pages rebuilt
+2022-03-21T14:30:30.453Z - info: Website regeneration complete! Total build time: 0.235s
+2022-03-21T14:31:18.564Z - info: Website generation started at 10:31:16 pm
+2022-03-21T14:31:23.862Z - info: Building assets...
