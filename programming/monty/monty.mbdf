@@ -816,7 +816,7 @@ STATUS | INDEX | DESCRIPTION                 | DEADLINE
 {{ icon_tip }} here are some tips:
 
 * One option is to use a list of dictionary objects to store the tasks/deadlines. Given below is an example of such a data structure. In that data structure, `T` and `D` is used to indicate todo items and deadline items, respectively.
-  ```python
+  ```python{.no-line-numbers}
   [
    {'type': 'T', 'description': 'borrow book', 'is_done': True},
    {'type': 'T', 'description': 'read book', 'is_done': False},
@@ -825,7 +825,7 @@ STATUS | INDEX | DESCRIPTION                 | DEADLINE
 
   ```
 * The format of the csv file needs to be updated to store extra values too. Here is an example:
-  ```
+  ```{.no-line-numbers}
   T,borrow book,done
   T,read book,pending
   D,return book,pending,Monday
