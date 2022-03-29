@@ -323,3 +323,18 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002
 2022-03-29T18:44:33.737Z - info: The website has been deployed at: https://nus-tic2002-2022.github.io/website
 2022-03-29T18:46:55.749Z - info: Website generation started at 2:46:49 am
 2022-03-29T18:47:03.014Z - info: Building assets...
+2022-03-29T18:47:08.776Z - info: Assets built
+2022-03-29T18:47:08.776Z - info: Generating pages...
+2022-03-29T18:47:18.057Z - debug:  
+2022-03-29T18:47:18.057Z - debug:  
+2022-03-29T18:47:25.145Z - debug:  
+2022-03-29T18:47:25.146Z - debug:  
+2022-03-29T18:47:43.759Z - debug:  
+2022-03-29T18:48:01.730Z - debug:  
+2022-03-29T18:48:45.374Z - info: Pages built
+2022-03-29T18:48:46.585Z - info: Site data built
+2022-03-29T18:48:46.585Z - info: Website generation complete! Total build time: 117.14s
+2022-03-29T18:48:46.585Z - info: Build success!
+2022-03-29T18:52:25.977Z - info: The website has been deployed at: https://nus-tee3201.github.io/2022
+2022-03-29T18:54:56.117Z - info: Website generation started at 2:54:49 am
+2022-03-29T18:55:02.441Z - info: Building assets...
